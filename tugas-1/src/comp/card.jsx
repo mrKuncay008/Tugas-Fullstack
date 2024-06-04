@@ -1,20 +1,14 @@
 // File
-import {useState} from "react";
 import imgKotak from "../assets/1.png"
 
 
 const Card = () => {
-    const [zoomed, setZoomed] = useState(false);
-
-    function toggleZoom() {
-        setZoomed(!zoomed);
-    }
     return (
-        
+        <>
             <div className='container-1'>
                 <div className="wrapper">
-                    <div className="kotak-1" onAuxClick={toggleZoom}>
-                        <img src={imgKotak}  className={zoomed ? "gambar-zoom zoomed" : "gambar-zoom"} alt=""/>
+                    <div className="kotak-1">
+                        <img src={imgKotak} className="" alt=""/>
                         <div className="content-1">
                             <p>Hallo</p>
                         </div>
@@ -70,7 +64,14 @@ const Card = () => {
                         <span className="label-8">Label kotak</span>
                     </div>    
                 </div>
+                <div className="popup-img">
+                <span>&times;</span>
+                <img src={imgKotak} className="" alt=""/>
             </div>
+            </div>
+
+            
+        </>
     )
 }
 export default Card

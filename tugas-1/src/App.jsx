@@ -5,6 +5,7 @@ import Card from './comp/card';
 import "./comp/Sytle/card.css";
 import "./comp/Sytle/container.css";
 import "./comp/Sytle/content.css";
+import "./comp/Sytle/popup-img.css";
 
 function App() {
   return (
