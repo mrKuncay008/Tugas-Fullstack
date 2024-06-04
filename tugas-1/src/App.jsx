@@ -3,6 +3,8 @@ import Card from './comp/card';
 
 // css comp
 import "./comp/Sytle/card.css";
+import "./comp/Sytle/container.css";
+import "./comp/Sytle/content.css";
 
 function App() {
   return (
@@ -10,7 +12,7 @@ function App() {
     <div className='up-Border' />
       <div className='Judul'>
         <h1>
-          Welcome to my Gallery 
+          Welcome to Hero Mobile Legend
         </h1>
       </div>
     <Card />
