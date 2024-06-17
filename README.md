@@ -1,6 +1,7 @@
 # Tugas Full-Stack
 by mrKuncay008
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/mrKuncay008/Tugas-Fulstack/tree/main)
+[![React.js](https://img.shields.io/badge/React.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 
+[![JavaScript](https://img.shields.io/badge/JavaScript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%2361DAFB)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 _enjoyy !_
