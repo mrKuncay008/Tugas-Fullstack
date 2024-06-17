@@ -4,6 +4,7 @@
     background: rgba(0, 0, 0, 0.7);
     height: 100%; width: 100%;
     z-index: 100;
+    /* display: none; */
 }
 .container-1 .popup-img span {
     position: absolute;
@@ -19,6 +20,6 @@
     transform: translate(-50%, -50%);
     border: 5px solid white;
     border-radius: 5px;
-    width: 500px; height: 500px; 
+    width: 500px; height: 500px;
     object-fit: cover;
 }

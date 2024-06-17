@@ -1,5 +1,5 @@
 .kotak-1 {
-    width: 30vh; 
+    width: 30vh;
     height: 25vh;
     position: relative; /* Ganti menjadi relatif agar koordinat top dan left merujuk pada posisi induknya */
     margin: 10px;
@@ -11,7 +11,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 30vh; 
+    width: 30vh;
     height: 25vh;
 }
 .kotak-1:hover {
@@ -22,7 +22,7 @@
 }
 
 .kotak-2 {
-    width: 30vh; 
+    width: 30vh;
     height: 25vh;
     position: relative; /* Ganti menjadi relatif agar koordinat top dan left merujuk pada posisi induknya */
     margin: 10px;
@@ -34,7 +34,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 30vh; 
+    width: 30vh;
     height: 25vh;
 }
 .kotak-2:hover {
@@ -45,10 +45,10 @@
 }
 
 .kotak-3 {
-    width: 30vh; 
+    width: 30vh;
     height: 25vh;
     position: relative; /* Ganti menjadi relatif agar koordinat top dan left merujuk pada posisi induknya */
-    margin: 10px; 
+    margin: 10px;
     background-color: rgb(255, 255, 255);
     box-shadow: 3px 3px 4px 0px rgba(133, 133, 133, 0.25);
 }
@@ -57,7 +57,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 30vh; 
+    width: 30vh;
     height: 25vh;
 }
 .kotak-3:hover {
@@ -68,10 +68,10 @@
 }
 
 .kotak-4 {
-    width: 30vh; 
+    width: 30vh;
     height: 25vh;
     position: relative; /* Ganti menjadi relatif agar koordinat top dan left merujuk pada posisi induknya */
-    margin: 10px; 
+    margin: 10px;
     background-color: rgb(255, 255, 255);
     box-shadow: 3px 3px 4px 0px rgba(133, 133, 133, 0.25);
 }
@@ -80,7 +80,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 30vh; 
+    width: 30vh;
     height: 25vh;
 }
 .kotak-4:hover {
@@ -91,10 +91,10 @@
 }
 
 .kotak-5 {
-    width: 30vh; 
+    width: 30vh;
     height: 25vh;
     position: relative; /* Ganti menjadi relatif agar koordinat top dan left merujuk pada posisi induknya */
-    margin: 10px; 
+    margin: 10px;
     background-color: rgb(255, 255, 255);
     box-shadow: 3px 3px 4px 0px rgba(133, 133, 133, 0.25);
 }
@@ -103,7 +103,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 30vh; 
+    width: 30vh;
     height: 25vh;
 }
 .kotak-5:hover {
@@ -114,10 +114,10 @@
 }
 
 .kotak-6 {
-    width: 30vh; 
+    width: 30vh;
     height: 25vh;
     position: relative; /* Ganti menjadi relatif agar koordinat top dan left merujuk pada posisi induknya */
-    margin: 10px; 
+    margin: 10px;
     background-color: rgb(255, 255, 255);
     box-shadow: 3px 3px 4px 0px rgba(133, 133, 133, 0.25);
 }
@@ -126,7 +126,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 30vh; 
+    width: 30vh;
     height: 25vh;
 }
 .kotak-6:hover {
@@ -137,10 +137,10 @@
 }
 
 .kotak-7 {
-    width: 30vh; 
+    width: 30vh;
     height: 25vh;
     position: relative; /* Ganti menjadi relatif agar koordinat top dan left merujuk pada posisi induknya */
-    margin: 10px; 
+    margin: 10px;
     background-color: rgb(255, 255, 255);
     box-shadow: 3px 3px 4px 0px rgba(133, 133, 133, 0.25);
 }
@@ -149,7 +149,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 30vh; 
+    width: 30vh;
     height: 25vh;
 }
 .kotak-7:hover {
@@ -160,10 +160,10 @@
 }
 
 .kotak-8 {
-    width: 30vh; 
+    width: 30vh;
     height: 25vh;
     position: relative; /* Ganti menjadi relatif agar koordinat top dan left merujuk pada posisi induknya */
-    margin: 10px; 
+    margin: 10px;
     background-color: rgb(255, 255, 255);
     box-shadow: 3px 3px 4px 0px rgba(133, 133, 133, 0.25);
 }
@@ -172,7 +172,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 30vh; 
+    width: 30vh;
     height: 25vh;
 }
 .kotak-8:hover {
@@ -188,7 +188,7 @@
     background-color: black;
     font-size: 20px;
     font-weight: bold; width: 20vh; border-radius: 0px 0px 10px 0px;
-    text-align: center; 
+    text-align: center;
 
 }
 .label-2 {
@@ -196,7 +196,7 @@
     background-color: black;
     font-size: 20px;
     font-weight: bold; width: 20vh; border-radius: 0px 0px 10px 0px;
-    text-align: center; 
+    text-align: center;
 
 }
 .label-3 {
@@ -204,7 +204,7 @@
     background-color: black;
     font-size: 20px;
     font-weight: bold; width: 20vh; border-radius: 0px 0px 10px 0px;
-    text-align: center; 
+    text-align: center;
 
 }
 .label-4 {
@@ -212,7 +212,7 @@
     background-color: black;
     font-size: 20px;
     font-weight: bold; width: 20vh; border-radius: 0px 0px 10px 0px;
-    text-align: center;  
+    text-align: center;
 
 }
 .label-5 {
@@ -220,7 +220,7 @@
     background-color: black;
     font-size: 20px;
     font-weight: bold; width: 20vh; border-radius: 0px 0px 10px 0px;
-    text-align: center;  
+    text-align: center;
 
 }
 .label-6 {
@@ -228,23 +228,23 @@
     background-color: black;
     font-size: 20px;
     font-weight: bold; width: 20vh; border-radius: 0px 0px 10px 0px;
-    text-align: center; 
+    text-align: center;
 
 }
 .label-7 {
-    
+
 position: absolute; /* Menjadikan label terpisah dari konten dan bisa diatur secara independen */
     background-color: black;
     font-size: 20px;
     font-weight: bold; width: 20vh; border-radius: 0px 0px 10px 0px;
-    text-align: center; 
+    text-align: center;
 }
 .label-8 {
 position: absolute; /* Menjadikan label terpisah dari konten dan bisa diatur secara independen */
     background-color: black;
     font-size: 20px;
     font-weight: bold; width: 20vh; border-radius: 0px 0px 10px 0px;
-    text-align: center; 
+    text-align: center;
 
 }
 
@@ -256,7 +256,7 @@ position: absolute; /* Menjadikan label terpisah dari konten dan bisa diatur sec
     }
 
     .kotak-1,.kotak-2,.kotak-3,.kotak-4,
-    .kotak-5,.kotak-6,.kotak-7,.kotak-8 
+    .kotak-5,.kotak-6,.kotak-7,.kotak-8
     {
         width: 80vw; /* Mengubah lebar kotak menjadi 80vw pada layar kecil */
         height: 40vh;
@@ -264,7 +264,7 @@ position: absolute; /* Menjadikan label terpisah dari konten dan bisa diatur sec
 
     /* bagian img */
     .kotak-1 img,.kotak-2 img,.kotak-3 img,.kotak-4 img,
-    .kotak-5 img,.kotak-6 img,.kotak-7 img,.kotak-8 img 
+    .kotak-5 img,.kotak-6 img,.kotak-7 img,.kotak-8 img
     {
         width: 80vw; /* Mengubah lebar kotak menjadi 80vw pada layar kecil */
         height: 40vh;
